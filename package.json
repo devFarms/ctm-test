@@ -1,5 +1,5 @@
 {
-  "name": "catch-the-match2018",
+  "name": "ctm-test",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sphagan1088/catch-the-match2018.git"
+    "url": "git+https://github.com/devFarms/ctm-test.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sphagan1088/catch-the-match2018/issues"
+    "url": "https://github.com/devFarms/ctm-test/issues"
   },
-  "homepage": "https://github.com/sphagan1088/catch-the-match2018#readme",
+  "homepage": "https://github.com/devFarms/ctm-test#readme",
   "dependencies": {
     "axios": "^0.18.0",
     "body-parser": "^1.18.2",
